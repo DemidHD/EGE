@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70b798a3-a896-4ccc-b0ef-1ed8c595ca39" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12_ex.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_ex.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_ex.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/8_ex.py" beforeDir="false" />
+    <list default="true" id="70b798a3-a896-4ccc-b0ef-1ed8c595ca39" name="Changes" comment="Изменена файловая структура">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,6 +107,21 @@
       <option name="presentableId" value="Default" />
       <updated>1679329497968</updated>
     </task>
+    <task id="LOCAL-00001" summary="Изменена файловая структура">
+      <created>1679329970020</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679329970020</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Изменена файловая структура">
+      <created>1679329992107</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679329992107</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,5 +134,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Изменена файловая структура" />
+    <option name="LAST_COMMIT_MESSAGE" value="Изменена файловая структура" />
   </component>
 </project>
