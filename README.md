@@ -3,4 +3,4 @@
 
 2 задание - Построение таблиц истинности логических выражений
 
-![](C:/Users/Demid/Downloads/2023-03-20_19-40-04.png)
+![](https://stk-briket.ru/wp-content/uploads/f/c/2/fc2d0b752b1d2b38fdd0a22b4013eeba.jpeg)
