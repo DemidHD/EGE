@@ -1,4 +1,5 @@
 for i in range(1, 1000):
+    """5"""
     bin_x = bin(i)[2:]
     if i % 2 == 0:
         bin_x = bin_x + '01'
