@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70b798a3-a896-4ccc-b0ef-1ed8c595ca39" name="Changes" comment="Добавлены примеры">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="70b798a3-a896-4ccc-b0ef-1ed8c595ca39" name="Changes" comment="решение 8 задания">
+      <change beforePath="$PROJECT_DIR$/8/8_ege.py" beforeDir="false" afterPath="$PROJECT_DIR$/8/8_ege.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -250,7 +250,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679331529408</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="решение 8 задания">
+      <created>1679417386996</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679417386996</updated>
+    </task>
+    <task id="LOCAL-00008" summary="решение 8 задания">
+      <created>1679417405544</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1679417405544</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -267,6 +281,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Изменена файловая структура" />
     <MESSAGE value="Добавлены примеры" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавлены примеры" />
+    <MESSAGE value="решение 8 задания" />
+    <option name="LAST_COMMIT_MESSAGE" value="решение 8 задания" />
   </component>
 </project>
